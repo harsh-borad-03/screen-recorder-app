@@ -1,0 +1,17 @@
+{
+  "done": true,
+  "migration": {
+    "name": "mig_d3kdgrebsnvda21ve1ng",
+    "operations": [
+      {
+        "sql": {
+          "up": "CREATE SCHEMA \"bb_00000000000000000000000000_000000\";"
+        }
+      }
+    ]
+  },
+  "migrationType": "pgroll",
+  "name": "mig_d3kdgrebsnvda21ve1ng",
+  "schema": "public",
+  "startedAt": "2025-10-10T09:57:01.320254Z"
+}

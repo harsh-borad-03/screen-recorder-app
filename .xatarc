@@ -1,0 +1,6 @@
+{
+  "databaseURL": "https://patel-smit-s-workspace-ndcs9j.eu-central-1.xata.sh/db/snapcast",
+  "codegen": {
+    "output": "src/xata.ts"
+  }
+}
